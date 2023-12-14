@@ -192,7 +192,7 @@ function loadingStart(textAlert){
 
 function loadingEnd(){
   Swal.close()
-  
+  alert("sdsdsdsd")
 };
 
 
