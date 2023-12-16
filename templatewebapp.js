@@ -1,2 +1,2 @@
 
-console.log("ทดสอบ cdn")
+console.log("ทดสอบ cdn2")
